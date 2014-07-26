@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F2E19651836D75600FFCBEE /* images-3.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F2E19621836D75600FFCBEE /* images-3.jpeg */; };
+		0F2E19661836D75600FFCBEE /* Unknown-7.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F2E19631836D75600FFCBEE /* Unknown-7.jpeg */; };
+		0F2E19671836D75600FFCBEE /* Unknown-8.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0F2E19641836D75600FFCBEE /* Unknown-8.jpeg */; };
 		0F347C8918356052002506F6 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F347C8818356052002506F6 /* UIKit.framework */; };
 		0F347C8B18356052002506F6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F347C8A18356052002506F6 /* Foundation.framework */; };
 		0F347C8D18356052002506F6 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F347C8C18356052002506F6 /* CoreGraphics.framework */; };
@@ -18,9 +21,27 @@
 		0F347C9F18356052002506F6 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347C9E18356052002506F6 /* Default-568h@2x.png */; };
 		0F347CA218356052002506F6 /* MainStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CA018356052002506F6 /* MainStoryboard.storyboard */; };
 		0F347CA518356052002506F6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F347CA418356052002506F6 /* ViewController.m */; };
+		0F347CAD1835615C002506F6 /* RegistrationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F347CAC1835615C002506F6 /* RegistrationViewController.m */; };
+		0F347CAF18357484002506F6 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0F347CAE18357484002506F6 /* MapKit.framework */; };
+		0F347CB1183574C8002506F6 /* 1st.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CB0183574C8002506F6 /* 1st.png */; };
+		0F347CB3183574CC002506F6 /* 2nd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CB2183574CC002506F6 /* 2nd.png */; };
+		0F347CB5183574D7002506F6 /* 3rd.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CB4183574D7002506F6 /* 3rd.png */; };
+		0F347CB7183574DD002506F6 /* 4th.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CB6183574DD002506F6 /* 4th.png */; };
+		0F347CB9183574E4002506F6 /* 5th.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CB8183574E4002506F6 /* 5th.png */; };
+		0F347CBB183574EB002506F6 /* 6th.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CBA183574EB002506F6 /* 6th.png */; };
+		0F347CBD18357600002506F6 /* 07-map-marker.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CBC18357600002506F6 /* 07-map-marker.png */; };
+		0F347CBF18357641002506F6 /* 17-bar-chart.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CBE18357641002506F6 /* 17-bar-chart.png */; };
+		0F347CC118357662002506F6 /* 19-gear.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CC018357662002506F6 /* 19-gear.png */; };
+		0F347CC3183576A9002506F6 /* 28-star.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CC2183576A9002506F6 /* 28-star.png */; };
+		0F347CC618357884002506F6 /* RetrieveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F347CC518357884002506F6 /* RetrieveViewController.m */; };
+		0F347CF918358972002506F6 /* 06-magnify.png in Resources */ = {isa = PBXBuildFile; fileRef = 0F347CF818358972002506F6 /* 06-magnify.png */; };
+		0F347CFC18358B16002506F6 /* SearchViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0F347CFB18358B16002506F6 /* SearchViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0F2E19621836D75600FFCBEE /* images-3.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "images-3.jpeg"; sourceTree = "<group>"; };
+		0F2E19631836D75600FFCBEE /* Unknown-7.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-7.jpeg"; sourceTree = "<group>"; };
+		0F2E19641836D75600FFCBEE /* Unknown-8.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Unknown-8.jpeg"; sourceTree = "<group>"; };
 		0F347C8518356052002506F6 /* swipelogin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = swipelogin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F347C8818356052002506F6 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		0F347C8A18356052002506F6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -37,6 +58,24 @@
 		0F347CA118356052002506F6 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = en; path = en.lproj/MainStoryboard.storyboard; sourceTree = "<group>"; };
 		0F347CA318356052002506F6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		0F347CA418356052002506F6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		0F347CAB1835615C002506F6 /* RegistrationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegistrationViewController.h; sourceTree = "<group>"; };
+		0F347CAC1835615C002506F6 /* RegistrationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegistrationViewController.m; sourceTree = "<group>"; };
+		0F347CAE18357484002506F6 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		0F347CB0183574C8002506F6 /* 1st.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1st.png; sourceTree = "<group>"; };
+		0F347CB2183574CC002506F6 /* 2nd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2nd.png; sourceTree = "<group>"; };
+		0F347CB4183574D7002506F6 /* 3rd.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 3rd.png; sourceTree = "<group>"; };
+		0F347CB6183574DD002506F6 /* 4th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 4th.png; sourceTree = "<group>"; };
+		0F347CB8183574E4002506F6 /* 5th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 5th.png; sourceTree = "<group>"; };
+		0F347CBA183574EB002506F6 /* 6th.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 6th.png; sourceTree = "<group>"; };
+		0F347CBC18357600002506F6 /* 07-map-marker.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "07-map-marker.png"; sourceTree = "<group>"; };
+		0F347CBE18357641002506F6 /* 17-bar-chart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "17-bar-chart.png"; sourceTree = "<group>"; };
+		0F347CC018357662002506F6 /* 19-gear.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "19-gear.png"; sourceTree = "<group>"; };
+		0F347CC2183576A9002506F6 /* 28-star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "28-star.png"; sourceTree = "<group>"; };
+		0F347CC418357884002506F6 /* RetrieveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RetrieveViewController.h; sourceTree = "<group>"; };
+		0F347CC518357884002506F6 /* RetrieveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RetrieveViewController.m; sourceTree = "<group>"; };
+		0F347CF818358972002506F6 /* 06-magnify.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "06-magnify.png"; sourceTree = "<group>"; };
+		0F347CFA18358B16002506F6 /* SearchViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SearchViewController.h; sourceTree = "<group>"; };
+		0F347CFB18358B16002506F6 /* SearchViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SearchViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +83,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0F347CAF18357484002506F6 /* MapKit.framework in Frameworks */,
 				0F347C8918356052002506F6 /* UIKit.framework in Frameworks */,
 				0F347C8B18356052002506F6 /* Foundation.framework in Frameworks */,
 				0F347C8D18356052002506F6 /* CoreGraphics.framework in Frameworks */,
@@ -73,6 +113,7 @@
 		0F347C8718356052002506F6 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0F347CAE18357484002506F6 /* MapKit.framework */,
 				0F347C8818356052002506F6 /* UIKit.framework */,
 				0F347C8A18356052002506F6 /* Foundation.framework */,
 				0F347C8C18356052002506F6 /* CoreGraphics.framework */,
@@ -88,6 +129,12 @@
 				0F347CA018356052002506F6 /* MainStoryboard.storyboard */,
 				0F347CA318356052002506F6 /* ViewController.h */,
 				0F347CA418356052002506F6 /* ViewController.m */,
+				0F347CC418357884002506F6 /* RetrieveViewController.h */,
+				0F347CC518357884002506F6 /* RetrieveViewController.m */,
+				0F347CAB1835615C002506F6 /* RegistrationViewController.h */,
+				0F347CFA18358B16002506F6 /* SearchViewController.h */,
+				0F347CFB18358B16002506F6 /* SearchViewController.m */,
+				0F347CAC1835615C002506F6 /* RegistrationViewController.m */,
 				0F347C8F18356052002506F6 /* Supporting Files */,
 			);
 			path = swipelogin;
@@ -98,6 +145,20 @@
 			children = (
 				0F347C9018356052002506F6 /* swipelogin-Info.plist */,
 				0F347C9118356052002506F6 /* InfoPlist.strings */,
+				0F347CB0183574C8002506F6 /* 1st.png */,
+				0F347CB2183574CC002506F6 /* 2nd.png */,
+				0F347CB4183574D7002506F6 /* 3rd.png */,
+				0F347CB6183574DD002506F6 /* 4th.png */,
+				0F2E19621836D75600FFCBEE /* images-3.jpeg */,
+				0F2E19631836D75600FFCBEE /* Unknown-7.jpeg */,
+				0F2E19641836D75600FFCBEE /* Unknown-8.jpeg */,
+				0F347CF818358972002506F6 /* 06-magnify.png */,
+				0F347CC018357662002506F6 /* 19-gear.png */,
+				0F347CC2183576A9002506F6 /* 28-star.png */,
+				0F347CB8183574E4002506F6 /* 5th.png */,
+				0F347CBE18357641002506F6 /* 17-bar-chart.png */,
+				0F347CBC18357600002506F6 /* 07-map-marker.png */,
+				0F347CBA183574EB002506F6 /* 6th.png */,
 				0F347C9418356052002506F6 /* main.m */,
 				0F347C9618356052002506F6 /* swipelogin-Prefix.pch */,
 				0F347C9A18356052002506F6 /* Default.png */,
@@ -163,6 +224,20 @@
 				0F347C9D18356052002506F6 /* Default@2x.png in Resources */,
 				0F347C9F18356052002506F6 /* Default-568h@2x.png in Resources */,
 				0F347CA218356052002506F6 /* MainStoryboard.storyboard in Resources */,
+				0F347CB1183574C8002506F6 /* 1st.png in Resources */,
+				0F347CB3183574CC002506F6 /* 2nd.png in Resources */,
+				0F347CB5183574D7002506F6 /* 3rd.png in Resources */,
+				0F347CB7183574DD002506F6 /* 4th.png in Resources */,
+				0F347CB9183574E4002506F6 /* 5th.png in Resources */,
+				0F347CBB183574EB002506F6 /* 6th.png in Resources */,
+				0F347CBD18357600002506F6 /* 07-map-marker.png in Resources */,
+				0F347CBF18357641002506F6 /* 17-bar-chart.png in Resources */,
+				0F347CC118357662002506F6 /* 19-gear.png in Resources */,
+				0F347CC3183576A9002506F6 /* 28-star.png in Resources */,
+				0F347CF918358972002506F6 /* 06-magnify.png in Resources */,
+				0F2E19651836D75600FFCBEE /* images-3.jpeg in Resources */,
+				0F2E19661836D75600FFCBEE /* Unknown-7.jpeg in Resources */,
+				0F2E19671836D75600FFCBEE /* Unknown-8.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -176,6 +251,9 @@
 				0F347C9518356052002506F6 /* main.m in Sources */,
 				0F347C9918356052002506F6 /* AppDelegate.m in Sources */,
 				0F347CA518356052002506F6 /* ViewController.m in Sources */,
+				0F347CAD1835615C002506F6 /* RegistrationViewController.m in Sources */,
+				0F347CC618357884002506F6 /* RetrieveViewController.m in Sources */,
+				0F347CFC18358B16002506F6 /* SearchViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,6 +376,7 @@
 				0F347CAA18356052002506F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
